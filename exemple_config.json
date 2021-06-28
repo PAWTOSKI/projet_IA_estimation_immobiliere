@@ -1,0 +1,13 @@
+{
+    "SECRET_KEY": "test",
+    "DEFAULT_DB": "POSTGRES",
+    "POSTGRES": {
+        "connector": "postgresql",
+        "user": "simplon",
+        "password": "simplon",
+        "host": "localhost",
+        "port": "5432",
+        "bdd": "db_housing"
+    },
+    "MAPQUEST_KEY": "key_from_mapquest"
+}
